@@ -1,0 +1,11 @@
+print("Job Market Skill Mapper")
+print("========================")
+
+print("\nAvailable Modules:")
+print("1. Skill Analysis")
+print("2. Similar Job Search")
+print("3. Job Clustering")
+print("4. Skill Gap Analysis")
+print("5. Career Recommendations")
+print("6. Skill Co-occurrence Analysis")
+print("7. Skill Network")
